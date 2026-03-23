@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🎓 I'm a Computer Engineering student diving deep into Machine Learning & AI  <br>💻 I enjoy crafting smart apps, data-driven systems, and cool ML experiments  <br>☁️ Skilled with AWS and Docker to bring models to life in the cloud  <br>🧠 Currently learning the magic of Deep Learning, MLOps, and AI a scale  <br>📈 My dream: to grow into a top ML Engineer solving real problems with smarter tech 🚀  <br>⚡ Fun fact: I once spent hours debugging only to realize... the dataset wasn’t loaded 😅 <br>
+<br>🎓 I'm a Computer Engineering student diving deep into Machine Learning & AI  <br>💻 I enjoy crafting smart apps, data-driven systems, and cool ML experiments  <br>☁️ Skilled with AWS and Docker to bring models to life in the cloud  <br>🧠 Currently learning the magic of Deep Learning, MLOps, and AI a scale  <br>📈 My dream: to grow into a top ML Engineer solving real problems with smarter tech🚀  <br>⚡ Fun fact: I once spent hours debugging only to realize... the dataset wasn’t loaded 😅 <br>
 
 
 ## 🌐 Socials:
