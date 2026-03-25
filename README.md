@@ -62,7 +62,7 @@ me.say_hi()
   </td>
   <td width="50%">
 
-### 🎯 Goals for 2025
+### 🎯 Goals for 2026
 - [ ] Deploy 3 end-to-end ML projects
 - [ ] Contribute to an open-source AI library
 - [ ] Earn AWS ML Specialty Certification
