@@ -77,30 +77,30 @@ me.say_hi()
 ## 🛠️ Tech Arsenal
 
 <div align="center">
+
 ### Languages
-https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-https://img.shields.io/badge/Java-%2523ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### AI / ML Stack
-https://img.shields.io/badge/TensorFlow-%2523FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
-https://img.shields.io/badge/PyTorch-%2523EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
-https://img.shields.io/badge/scikit--learn-%2523F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
-https://img.shields.io/badge/NumPy-%2523013243.svg?style=for-the-badge&logo=numpy&logoColor=white
-https://img.shields.io/badge/Pandas-%2523150458.svg?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/MLflow-%2523d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
 ### Cloud & DevOps
-https://img.shields.io/badge/AWS-%2523FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-https://img.shields.io/badge/Docker-%25230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Firebase-%2523039BE5.svg?style=for-the-badge&logo=firebase
-https://img.shields.io/badge/GitHub-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Databases & Hardware
-https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
