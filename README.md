@@ -118,18 +118,18 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kisalkavinda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
-</div>
 
----
+| 🎯 Milestone | 🔖 Status |
+|---|---|
+| 🐍 Python ML Projects | ✅ Active |
+| ☁️ AWS Cloud Deployments | ✅ In Progress |
+| 🤖 Deep Learning Models Built | ✅ Ongoing |
+| 🐳 Dockerized ML Pipelines | ✅ Done |
+| 📦 Open Source Contributions | 🔄 Growing |
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kisalkavinda&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&no-bg=true&no-frame=true" alt="Top Contributed Repos"/>
 </div>
 
 ---
