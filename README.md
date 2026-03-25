@@ -110,22 +110,6 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| 🎯 Milestone | 🔖 Status |
-|---|---|
-| 🐍 Python ML Projects | ✅ Active |
-| ☁️ AWS Cloud Deployments | ✅ In Progress |
-| 🤖 Deep Learning Models Built | ✅ Ongoing |
-| 🐳 Dockerized ML Pipelines | ✅ Done |
-| 📦 Open Source Contributions | 🔄 Growing |
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -138,7 +122,7 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kisal-kavinda-03139833b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kisal-kavinda)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/kisal.kavinda.184)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kisalkavinda1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kisalkavinda)
