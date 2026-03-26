@@ -77,8 +77,14 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kisalkavinda&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/> </div><div align="center"> <img src="https://streak-stats.demolab.com?user=kisalkavinda&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kisalkavinda&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=tokyonight&layout=compact&hide_border=true" height="180" alt="Top Languages"/>
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kisalkavinda&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
+</div>
 ---
 
 ## 📈 Contribution Activity
