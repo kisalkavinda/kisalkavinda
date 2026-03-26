@@ -1,4 +1,33 @@
- Engineering (Undergraduate)"
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kisal%20Kavinda&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20in%20the%20Making%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=58&descColor=a0aec0&descSize=16" width="100%"/>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+%7C+MLOps+%7C+Cloud+AI+%E2%98%81%EF%B8%8F;From+Data+to+Decisions+%F0%9F%93%88;Turning+Ideas+into+Smart+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views + Social Badges -->
+[![](https://visitcount.itsvg.in/api?id=kisalkavinda&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/kisalkavinda?label=Followers&style=social)](https://github.com/kisalkavinda)
+
+</div>
+
+---
+
+## ⚡ Who Am I?
+
+```python
+class KisalKavinda:
+    def __init__(self):
+        self.name        = "Kisal Kavinda"
+        self.role        = "Computer Engineering Student → ML Engineer"
+        self.location    = "Sri Lanka 🇱🇰"
+        self.education   = "Computer Engineering (Undergraduate)"
         self.email       = "kisalkavinda1@gmail.com"
 
         self.current_focus = [
@@ -110,3 +139,13 @@ me.say_hi()
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+
+**"The goal is to turn data into information, and information into insight."** — Carly Fiorina
+
+*Made with ❤️ and lots of ☕ | © 2025 Kisal Kavinda*
+
+</div>
