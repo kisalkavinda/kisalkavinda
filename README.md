@@ -45,35 +45,6 @@ me = KisalKavinda()
 me.say_hi()
 ```
 
----
-
-## 🧠 Currently Working On
-
-<table>
-<tr>
-  <td width="50%">
-
-### 🔬 Learning
-- 🧬 Deep Learning with **TensorFlow & PyTorch**
-- 🔁 **MLOps** — CI/CD for ML models
-- ☁️ **AWS SageMaker** & cloud deployment
-- 📦 **Docker + Kubernetes** for ML systems
-
-  </td>
-  <td width="50%">
-
-### 🎯 Goals for 2026
-- [ ] Deploy 3 end-to-end ML projects
-- [ ] Contribute to an open-source AI library
-- [ ] Earn AWS ML Specialty Certification
-- [ ] Build a real-time computer vision app
-
-  </td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
