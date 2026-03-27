@@ -67,14 +67,24 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kisalkavinda&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/> </div><div align="center"> <img src="https://streak-stats.demolab.com?user=kisalkavinda&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/> </div>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=kisalkavinda&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a0aec0&dates=a0aec0&hide_border=true" width="60%" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kisalkavinda&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kisalkavinda&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=16213e&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -107,6 +117,6 @@ me.say_hi()
 **"The goal is to turn data into information, and information into insight."** — Carly Fiorina
 
 *Made with ❤️ and lots of ☕ | © 2025 Kisal Kavinda*
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
