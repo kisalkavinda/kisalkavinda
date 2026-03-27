@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kisal%20Kavinda&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20in%20the%20Making%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=58&descColor=a0aec0&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kisal%20Kavinda&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=50&desc=ML%20Engineer%20in%20the%20Making%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=68&descColor=a0aec0&descSize=16" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -67,7 +67,14 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kisalkavinda&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/> </div><div align="center"> <img src="https://streak-stats.demolab.com?user=kisalkavinda&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kisalkavinda&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kisalkavinda&theme=synthwave&hide_border=true" width="60%"/>
+</div>
 
 ---
 
@@ -103,7 +110,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:16213e,50:1a1a2e,100:0d1117&height=140&section=footer&animation=twinkling&fontColor=00d4ff" width="100%"/>
 
 **"The goal is to turn data into information, and information into insight."** — Carly Fiorina
 
