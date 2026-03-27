@@ -1,8 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=8b5cf6&height=200&text=Kisal%20Kavinda&fontSize=60&fontColor=ffffff&desc=Building%20Autonomous%20Systems%20&%20Intelligent%20Web%20Apps&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Kisal%20Kavinda&fontSize=60&color=0:00d4ff,100:0077ff&stroke=00d4ff&fontColor=ffffff&animation=fadeIn&desc=ML%20Engineer%20in%20the%20Making%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=68&descColor=a0aec0&descSize=16" width="100%"/>
 
+
+give me gihub hearder
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+%7C+MLOps+%7C+Cloud+AI+%E2%98%81%EF%B8%8F;From+Data+to+Decisions+%F0%9F%93%88;Turning+Ideas+into+Smart+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
