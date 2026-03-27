@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Kisal%20Kavinda&fontSize=60&color=0:00d4ff,100:0077ff&stroke=00d4ff&fontColor=ffffff&animation=fadeIn&desc=ML%20Engineer%20in%20the%20Making%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=68&descColor=a0aec0&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Kisal%20Kavinda&fontSize=60&color=0:00d4ff,100:0077ff&stroke=00d4ff&fontColor=ffffff&animation=fadeIn&desc=ML%20Engineer%20in%20the%20Making%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=68&descColor=a0aec0&descSize=16" width="100%"/>
 
 
 give me gihub hearder
