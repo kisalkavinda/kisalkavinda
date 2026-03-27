@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=250&section=header&text=Kisal%20Kavinda&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineering%20@%20KDU%20|%20ML%20&%20Embedded%20Systems&descAlignY=65&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8b5cf6&height=200&text=Kisal%20Kavinda&fontSize=60&fontColor=ffffff&desc=Building%20Autonomous%20Systems%20&%20Intelligent%20Web%20Apps&descAlignY=65&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
