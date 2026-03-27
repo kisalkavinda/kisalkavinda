@@ -71,9 +71,7 @@ me.say_hi()
 
 ## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kisalkavinda&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=16213e&hide_border=true" width="95%"/>
-</div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kisalkavinda&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph"/> </div>
 
 ---
 
