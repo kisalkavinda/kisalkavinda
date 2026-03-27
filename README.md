@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kisal%20Kavinda&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=50&desc=ML%20Engineer%20in%20the%20Making%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=68&descColor=a0aec0&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Kisal%20Kavinda&fontSize=60&color=0:00d4ff,100:0077ff&stroke=00d4ff&fontColor=ffffff&animation=fadeIn&desc=ML%20Engineer%20in%20the%20Making%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=68&descColor=a0aec0&descSize=16" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -68,12 +68,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kisalkavinda&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kisalkavinda&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180"/>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kisalkavinda&theme=synthwave&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=kisalkavinda&theme=radical&hide_border=true" width="60%"/>
 </div>
 
 ---
@@ -110,10 +110,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:16213e,50:1a1a2e,100:0d1117&height=140&section=footer&animation=twinkling&fontColor=00d4ff" width="100%"/>
 
 **"The goal is to turn data into information, and information into insight."** — Carly Fiorina
 
 *Made with ❤️ and lots of ☕ | © 2025 Kisal Kavinda*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
