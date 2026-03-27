@@ -50,24 +50,16 @@ me.say_hi()
 <div align="center">
 
 ### Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=python,java&theme=dark)](https://skillicons.dev)
 
 ### AI / ML Stack
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy&theme=dark" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark)](https://skillicons.dev)
 
 ### Cloud & DevOps
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,docker,firebase,github&theme=dark" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,firebase,github&theme=dark)](https://skillicons.dev)
 
 ### Databases & Hardware
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,arduino&theme=dark" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=mysql,arduino&theme=dark)](https://skillicons.dev)
 
 </div>
 
