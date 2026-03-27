@@ -10,13 +10,6 @@
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
-[![](https://visitcount.itsvg.in/api?id=kisalkavinda&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/kisalkavinda?label=Followers&style=social)](https://github.com/kisalkavinda)
-
-</div>
-
 ---
 
 ## ⚡ Who Am I?
