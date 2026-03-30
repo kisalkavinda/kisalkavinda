@@ -10,8 +10,6 @@
 
 <br/>
 
-![](https://capsule-render.vercel.app/api?type=rect&color=0:0b0e1a,100:0b0e1a&height=2&section=header&reversal=false)
-
 </div>
 
 ---
@@ -67,7 +65,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0b0e1a&title_color=38bdf8&text_color=e2e8f0&icon_color=f472b6" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0b0e1a&title_color=38bdf8&text_color=e2e8f0&border_color=1e2640" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -93,10 +91,21 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2338BDF8.svg?style=for-the-badge&logo=linkedin&logoColor=0b0e1a)](https://linkedin.com/in/kisal-kavinda)
-[![Facebook](https://img.shields.io/badge/Facebook-%23F472B6.svg?style=for-the-badge&logo=Facebook&logoColor=0b0e1a)](https://facebook.com/kisal.kavinda.184)
-[![Gmail](https://img.shields.io/badge/Gmail-%23A78BFA.svg?style=for-the-badge&logo=gmail&logoColor=0b0e1a)](mailto:kisalkavinda1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%2334D399.svg?style=for-the-badge&logo=github&logoColor=0b0e1a)](https://github.com/kisalkavinda)
+<a href="https://linkedin.com/in/kisal-kavinda">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+</a>
+&nbsp;
+<a href="https://facebook.com/kisal.kavinda.184">
+  <img src="https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=38bdf8" />
+</a>
+&nbsp;
+<a href="mailto:kisalkavinda1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
+</a>
+&nbsp;
+<a href="https://github.com/kisalkavinda">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" />
+</a>
 
 </div>
 
