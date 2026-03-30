@@ -1,14 +1,18 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:1f2335&height=200&section=header&text=Kisal%20Kavinda&fontSize=60&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20in%20the%20Making%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=58&descColor=bb9af7&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0e1a,50:0f172a,100:0c1524&height=200&section=header&text=Kisal%20Kavinda&fontSize=60&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20in%20the%20Making%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=58&descColor=f472b6&descSize=16" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+%7C+MLOps+%7C+Cloud+AI+%E2%98%81%EF%B8%8F;From+Data+to+Decisions+%F0%9F%93%88;Turning+Ideas+into+Smart+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+%7C+MLOps+%7C+Cloud+AI+%E2%98%81%EF%B8%8F;From+Data+to+Decisions+%F0%9F%93%88;Turning+Ideas+into+Smart+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
+
+![](https://capsule-render.vercel.app/api?type=rect&color=0:0b0e1a,100:0b0e1a&height=2&section=header&reversal=false)
+
+</div>
 
 ---
 
@@ -22,7 +26,6 @@ class KisalKavinda:
         self.location    = "Sri Lanka 🇱🇰"
         self.education   = "Computer Engineering (Undergraduate)"
         self.email       = "kisalkavinda1@gmail.com"
-
         self.current_focus = [
             "Deep Learning Architecture Design",
             "MLOps & Model Deployment Pipelines",
@@ -37,6 +40,8 @@ class KisalKavinda:
 me = KisalKavinda()
 me.say_hi()
 ```
+
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -58,13 +63,29 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats <div align="center">  &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/> </div><div align="center"> <img src="https://streak-stats.demolab.com?user=kisalkavinda&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/> </div>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0b0e1a&title_color=38bdf8&text_color=e2e8f0&icon_color=f472b6" height="180" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kisalkavinda&theme=transparent&hide_border=true&background=0b0e1a&ring=38bdf8&fire=f472b6&currStreakLabel=38bdf8&sideLabels=a78bfa&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="60%" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kisalkavinda&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph"/> </div>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kisalkavinda&bg_color=0b0e1a&color=38bdf8&line=a78bfa&point=f472b6&area=true&area_color=1e2640&hide_border=true" width="95%" alt="Activity Graph"/>
+
+</div>
 
 ---
 
@@ -72,10 +93,10 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kisal-kavinda)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/kisal.kavinda.184)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kisalkavinda1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kisalkavinda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2338BDF8.svg?style=for-the-badge&logo=linkedin&logoColor=0b0e1a)](https://linkedin.com/in/kisal-kavinda)
+[![Facebook](https://img.shields.io/badge/Facebook-%23F472B6.svg?style=for-the-badge&logo=Facebook&logoColor=0b0e1a)](https://facebook.com/kisal.kavinda.184)
+[![Gmail](https://img.shields.io/badge/Gmail-%23A78BFA.svg?style=for-the-badge&logo=gmail&logoColor=0b0e1a)](mailto:kisalkavinda1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%2334D399.svg?style=for-the-badge&logo=github&logoColor=0b0e1a)](https://github.com/kisalkavinda)
 
 </div>
 
@@ -84,7 +105,8 @@ me.say_hi()
 <div align="center">
 
 ### 💬 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0b0e1a&text_color=e2e8f0&border_color=1e2640&quote_color=38bdf8&author_color=f472b6)
 
 </div>
 
@@ -92,10 +114,10 @@ me.say_hi()
 
 <div align="center">
 
-
 **"The goal is to turn data into information, and information into insight."** — Carly Fiorina
 
 *Made with ❤️ and lots of ☕ | © 2025 Kisal Kavinda*
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0e1a,50:0f172a,100:0c1524&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
