@@ -65,7 +65,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0b0e1a&title_color=38bdf8&text_color=e2e8f0&border_color=1e2640" height="180" alt="Top Languages"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
