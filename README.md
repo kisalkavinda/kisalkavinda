@@ -54,15 +54,9 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kisalkavinda&theme=transparent&hide_border=true&background=0b0e1a&ring=38bdf8&fire=f472b6&currStreakLabel=38bdf8&sideLabels=a78bfa&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="60%" alt="GitHub Streak"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisalkavinda&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kisalkavinda&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
