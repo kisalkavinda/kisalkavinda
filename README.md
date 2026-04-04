@@ -39,23 +39,13 @@ me = KisalKavinda()
 me.say_hi()
 ```
 
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages
-[![](https://skillicons.dev/icons?i=python,java&theme=dark)](https://skillicons.dev)
+**Languages** &nbsp;|&nbsp; **AI / ML Stack** &nbsp;|&nbsp; **Cloud & DevOps** &nbsp;|&nbsp; **Databases & Hardware**
 
-### AI / ML Stack
-[![](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)](https://skillicons.dev)
-
-### Cloud & DevOps
-[![](https://skillicons.dev/icons?i=aws,docker,firebase,github&theme=dark)](https://skillicons.dev)
-
-### Databases & Hardware
-[![](https://skillicons.dev/icons?i=mysql,arduino&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,aws,docker,firebase,github,mysql,arduino&theme=dark)](https://skillicons.dev)
 
 </div>
 
