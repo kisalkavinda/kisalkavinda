@@ -57,7 +57,8 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kisalkavinda&theme=transparent&hide_border=true&background=0b0e1a&ring=38bdf8&fire=f472b6&currStreakLabel=38bdf8&sideLabels=a78bfa&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="60%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=kisalkavinda&theme=transparent&hide_border=true&background=0b0e1a&ring=38bdf8&fire=f472b6&currStreakLabel=38bdf8&sideLabels=a78bfa&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&v=2" width="60%" alt="GitHub Streak"/>
+
 </div>
 
 
