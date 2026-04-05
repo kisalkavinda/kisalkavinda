@@ -53,7 +53,6 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.kisalkavinda1.workers.dev/?username=kisalkavinda&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.kisalkavinda1.workers.dev/api/top-langs/?username=kisalkavinda&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
