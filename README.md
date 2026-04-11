@@ -14,7 +14,7 @@
 
 ---
 
-## ⚡ Who Am I?
+## ⚡Who Am I?
 
 ```python
 class KisalKavinda:
@@ -39,7 +39,7 @@ me = KisalKavinda()
 me.say_hi()
 ```
 
-## 🛠️ Tech Arsenal
+## 🛠️Tech Arsenal
 
 <div align="center">
 
@@ -51,7 +51,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 📊GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.kisalkavinda1.workers.dev/api/top-langs/?username=kisalkavinda&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
 </div>
@@ -64,7 +64,7 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Activity
+## 📈Contribution Activity
 
 <div align="center">
 
@@ -74,7 +74,7 @@ me.say_hi()
 
 ---
 
-## 🌐 Connect With Me
+## 🌐Connect With Me
 
 <div align="center">
 
@@ -100,7 +100,7 @@ me.say_hi()
 
 <div align="center">
 
-### 💬 Random Dev Quote
+### 💬Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0b0e1a&text_color=e2e8f0&border_color=1e2640&quote_color=38bdf8&author_color=f472b6)
 
